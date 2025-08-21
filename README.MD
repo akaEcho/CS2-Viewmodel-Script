@@ -21,7 +21,7 @@
 ```
 Example - switching from secondary (Slot 2) to primary (Slot 1)
 eq_slot2 -> eq_slot1
-eq_slot1    "slot1; set_slot1; weapon_slot; noswitch;"
+eq_slot1    "slot1; set_slot1; weapon_slot; switchhandsright/switchhandsleft;"
   slot1 - takes out your primary (normal game bind)
   set_slot1    "alias eq_invnext eq_slot2; alias eq_invprev eq_slot10; set_lastinv2-10_reset; set_lastinv1_slot; grenade_reset;"
     alias eq_invnext eq_slot2
