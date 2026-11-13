@@ -1,4 +1,4 @@
-# CS2 Viewmodel script for (originally) Launders
+# Counter-Strike 2 Viewmodel script for (originally) Launders
 ### This script allows one to create individual settings for each inventory slot while preserving quickswitching functionality. 
  
 ## Limitations: 
