@@ -47,11 +47,11 @@ eq_slot1    "slot1; set_slot1; weapon_slot; switchhandsright/switchhandsleft;"
 ## Credits
 • By akaEcho ([YouTube](https://youtube.com/@akaEch0) | [pastebin](https://pastebin.com/q655J5W5) | [Steam](https://steamcommunity.com/id/akaEchoCS))
 
-• Based on a TF2 script by /u/genemilder (http://pastebin.com/7beau8BP). 
+• Based on a TF2 script by /u/genemilder ([pastebin](http://pastebin.com/7beau8BP)). 
 
-• Modified for CSGO by /u/Flapadiddle (https://pastebin.com/NV4qhDaU | http://steamcommunity.com/id/flapadiddle) 2014/12/29
+• Modified for CSGO by /u/Flapadiddle ([pastebin](https://pastebin.com/NV4qhDaU) | [Steam](http://steamcommunity.com/id/flapadiddle)) 2014/12/29
 
-• Modified for CS2 originally by /u/daFARKA (https://pastebin.com/mQfg91mt | https://steamcommunity.com/id/daFARKA) 2024/04/26
+• Modified for CS2 originally by /u/daFARKA ([pastebin](https://pastebin.com/mQfg91mt) | [Steam](https://steamcommunity.com/id/daFARKA)) 2024/04/26
 
 • Modified to fix functionality, condense logic & be made more readable - 2024/05/02
 
