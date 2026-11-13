@@ -45,7 +45,7 @@ eq_slot1    "slot1; set_slot1; weapon_slot; switchhandsright/switchhandsleft;"
 ```
 
 ## Credits
-• By akaEcho (youtube.com/@akaEch0 | https://pastebin.com/q655J5W5 | https://steamcommunity.com/id/akaEchoCS)
+• By akaEcho ([YouTube](https://youtube.com/@akaEch0) | [pastebin](https://pastebin.com/q655J5W5) | [Steam](https://steamcommunity.com/id/akaEchoCS))
 
 • Based on a TF2 script by /u/genemilder (http://pastebin.com/7beau8BP). 
 
