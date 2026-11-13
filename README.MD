@@ -1,6 +1,8 @@
-# Counter-Strike 2 Viewmodel script for (originally) Launders
+# CS2 Viewmodel script for (originally) Launders
 ### This script allows one to create individual settings for each inventory slot while preserving quickswitching functionality. 
- 
+
+### Intended for Counter-Strike 2 - Feel free to tinker with for other source-engine games 
+
 ## Limitations: 
 • Script cannot tell when a slot is empty or occupied due to write-only memory.
 
@@ -41,3 +43,17 @@ eq_slot1    "slot1; set_slot1; weapon_slot; switchhandsright/switchhandsleft;"
   weapon_slot "bind MOUSE1 "+attack"; bind MOUSE2 "+attack2";"
   switchhandsright/switchhandsleft
 ```
+
+## Credits
+• Based on a TF2 script by /u/genemilder (http://pastebin.com/7beau8BP). 
+• Modified for CSGO by /u/Flapadiddle (https://pastebin.com/NV4qhDaU | http://steamcommunity.com/id/flapadiddle) 2014/12/29
+• Modified for CS2 originally by /u/daFARKA (https://pastebin.com/mQfg91mt | https://steamcommunity.com/id/daFARKA) 2024/04/26
+• By akaEcho (youtube.com/@akaEch0 | https://pastebin.com/q655J5W5 | https://steamcommunity.com/id/akaEchoCS)
+• Modified to fix functionality, condense logic & be made more readable - 2024/05/02
+• Add multiple fixes & further reduce redundant logic - 2024/05/03
+• Add Grenade-cycle functionality - 2024/05/04
+• Revised Grenade-cycle functionality & remove unnecessary aliases - 2024/05/06
+• Major overhaul for quickswitching & grenade throwing - 2024/05/07
+    Previously quickswitch would bug if you pressed a eq_slotX twice in succession. It would think that your previous and current slot were the same. This Major overhaul fixes the bug. 
+    Previously the grenade throw fix didn't allow you to change your mind mid-throw, like letting go of left or right click while still holding the other. This fixes that. 
+• Hotfix since switchhandsright/left were added - 2024/05/23
